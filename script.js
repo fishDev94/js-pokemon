@@ -29,7 +29,7 @@ const renderListTypePokemon = () => {
 		headerElement.append(btnType);
 	})
 }
-// Questo commento l'ha lasciato Nicola Marmugi!
+// Questo commento l'ha lasciato Nicola Marmugi!!
 const renderListCard = () => {
 	mainSectionEl.innerHTML = ""
 
