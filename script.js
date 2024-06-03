@@ -3,7 +3,7 @@ import { cardElGen, cardListGen, buttonGen } from "./modules/components.js";
 
 
 const newPokemon = {
-	id: 6,
+	id: 16,
 	name: 'Charizard',
 	type: 'fire',
 	image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
